@@ -1,0 +1,20 @@
+target/
+build/
+bin/
+*.class
+*.project
+*.classpath
+*.settings
+*.jar
+
+# intellij
+*.iml
+.idea/
+
+# vim swap files
+*.swp
+*.swo
+
+# logfiles
+*.log
+
